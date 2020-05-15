@@ -1,0 +1,70 @@
+body {
+   font-family: Verdana, Arial, Helvetica, sans-serif;
+   font-size: 13px;
+   color:#333
+}
+
+#container {
+   text-align: center;
+   margin: auto;
+   width: 80%;
+}
+
+#header {
+   text-align: center;
+   margin-bottom:10px;
+   height: 50px;
+}
+
+#menu {
+   background-color: lightgray;
+   margin-bottom: 10px;
+   padding: 10px;
+   height: 50px;
+}
+
+.navbar {
+   padding: 10px;
+}
+
+.navbar a {
+   color: #333;
+   padding-right: 10px;
+}
+
+#ft {
+   background-color: lightgray;
+   padding: 10px;
+   margin-bottom: 10px;
+   height: 50px;
+}
+
+#columns {
+   height: 50px;
+}
+
+.col {
+   float: left;
+   background-color: lightgray;
+   width: 33.3%;
+   border-right: 10px solid white;
+   padding:16px;
+   box-sizing: border-box;
+}
+
+.col1 {
+   float: left;
+   background-color: lightgray;
+   width: 33.3%;
+   padding:16px;
+   box-sizing: border-box;
+}
+
+#footer {
+   height: 50px;
+   background-color: lightgray;
+   margin-top:8px;
+   padding:10px 0;
+   float: left;
+   width: 100%
+}

@@ -1,0 +1,56 @@
+h1 {
+	text-align:center;
+
+}
+
+
+ul {
+	list-style-type:none;
+	margin:0;
+	padding:0;
+	overflow:hidden;
+	border: 1px solid #e7e7e7;
+  	background-color: #f3f3f3;
+
+}
+
+li {
+	float:left;
+}
+
+li a {
+  display: block;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+.navbar {
+	position:sticky;
+	margin: 0 auto;
+
+}
+
+.navbar > ul > li {
+	display:inline;
+	
+}
+
+.one {
+	text-align:center;
+	width:100%;
+}
+
+.column1{
+	border:dotted;
+	text-align:left;
+}
+.column2 {
+	border:dotted;
+	text-align:center;
+
+}
+.column3 {
+	border:dotted;
+	text-align:right;
+}
